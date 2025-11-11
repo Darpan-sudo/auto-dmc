@@ -1,0 +1,10 @@
+= Main Hydraulic Pump Description
+:doctype: article
+
+== Purpose
+This article provides a detailed functional description of the primary hydraulic pump system (P-101).
+
+The pump's main function is to convert rotational energy from the motor (M-205) into hydraulic pressure used to actuate the landing gear and wing flap systems. It operates in two modes: high flow/low pressure for general operation and low flow/high pressure for heavy lifting phases. The pressure sensor (S-311) reports system status.
+
+== Operating Principle
+When the main switch is engaged, the internal gerotor mechanism begins its cycle...
